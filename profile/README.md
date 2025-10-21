@@ -1,11 +1,7 @@
-# 🌐 Dotshell
+# Dotshell
 
-**Open source dedicated to optimizing business processes, based on functional simplicity and operational excellence.**
-
-Dotshell delivers an open-source suite engineered to streamline business workflows with radical simplicity.
-Each solution is crafted for maximum efficiency, clarity, and seamless enterprise integration.
-Forget complexity: embrace essentials, master your tools.
+The outsiders that will change the world with Open Source.
 
 <p align="center">
-  <em>Dotshell • Believe in open</em>
+  <em>Dotshell • Be Evil</em>
 </p>
